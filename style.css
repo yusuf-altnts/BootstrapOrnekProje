@@ -1,0 +1,24 @@
+.nav-link.active{
+    color: red !important; 
+}
+#home{
+    background-image:url('images/pexels-laryssa-suaid-798122-1667088.jpg');
+    background-size: cover;
+    
+    
+    color: white;
+    
+}
+.memdu{
+    margin-top: 150px;
+}
+#product img{
+    height: 250px;
+    width: 400px;
+}
+
+.boyut{
+    height: 200px;
+    object-fit: cover;
+    
+}
